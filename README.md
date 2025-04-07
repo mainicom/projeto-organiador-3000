@@ -1,2 +1,2 @@
-# projeto-organiador-3000
+# projeto-organiador
 um projeto de um organizador/agenda
